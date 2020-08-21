@@ -1,2 +1,2 @@
 # site
-Personal website 
+This Repository is for a personal website  
